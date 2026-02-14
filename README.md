@@ -140,3 +140,18 @@ Please contact the authors below for queries.
 
 - Taian Guo, taianguo@stu.pku.edu.cn
 - Haiyang Shen, hyshen@stu.pku.edu.cn
+
+## 🌟 Citation
+
+If you find our work useful, please kindly consider citing our work as follows:
+```bibtex
+@misc{guo2026mememodelingevolutionarymodes,
+      title={MEME: Modeling the Evolutionary Modes of Financial Markets}, 
+      author={Taian Guo and Haiyang Shen and Junyu Luo and Zhongshi Xing and Hanchun Lian and Jinsheng Huang and Binqi Chen and Luchen Liu and Yun Ma and Ming Zhang},
+      year={2026},
+      eprint={2602.11918},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2602.11918}, 
+}
+```
